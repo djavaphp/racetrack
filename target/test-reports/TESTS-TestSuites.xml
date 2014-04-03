@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+  <testsuite errors="0" failures="0" hostname="CIPL-PC35" id="0" name="UserTests" package="racetrack" tests="1" time="0.743" timestamp="2013-04-30T11:23:18">
+      <properties />
+
+      <testcase classname="racetrack.UserTests" name="testSimpleConstraints" time="0.728" />
+
+      <system-out><![CDATA[--Output from testSimpleConstraints--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from testSimpleConstraints--
+]]></system-err>
+
+  </testsuite>
+</testsuites>
